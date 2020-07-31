@@ -3,9 +3,14 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <!--<title>Document</title>-->
     <!--<script src="app.js" defer></script>
     <link rel="stylesheet" href="style.css" />-->
+    <style>
+      .main {
+        background-color: aqua;
+      }
+    </style>
   </head>
   <body>
     <div class="container">
